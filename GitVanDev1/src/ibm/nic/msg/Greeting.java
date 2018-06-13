@@ -3,7 +3,7 @@ package ibm.nic.msg;
 public class Greeting {
 
 	public static void main(String[] args) {
-		System.out.println("hello radha");
+		System.out.println("hello vandu");
 
 	}
 
